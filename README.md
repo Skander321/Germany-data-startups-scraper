@@ -46,7 +46,7 @@ Germany-data-startups-scraper/
 ```bash
 git clone https://github.com/Skander321/Germany-data-startups-scraper.git
 cd Germany-data-startups-scraper
-
+```
 2️⃣ Install dependencies
 
 pip install -r requirements.txt
