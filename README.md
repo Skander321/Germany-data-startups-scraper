@@ -25,7 +25,7 @@ The project demonstrates:
 - Jupyter Notebook
 
 ---
-## Project Structure
+Project Structure 📂 
 
 Germany-data-startups-scraper/
 │
@@ -81,4 +81,4 @@ It reflects practical analytical thinking and structured development practices u
 
 
 
-## 📂 Project Structure
+
